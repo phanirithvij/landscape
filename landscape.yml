@@ -450,6 +450,7 @@ landscape:
             homepage_url: https://www.terraform.io/
             repo_url: https://github.com/hashicorp/terraform
             logo: terraform.svg
+            open_source: false
             crunchbase: https://www.crunchbase.com/organization/hashicorp
           - item:
             name: Tinkerbell
@@ -1956,6 +1957,7 @@ landscape:
             homepage_url: https://www.vaultproject.io/
             repo_url: https://github.com/hashicorp/vault
             logo: vault.svg
+            open_source: false
             crunchbase: https://www.crunchbase.com/organization/hashicorp
   - category:
     name: Runtime
@@ -3366,6 +3368,7 @@ landscape:
             homepage_url: https://www.nomadproject.io/
             repo_url: https://github.com/hashicorp/nomad
             logo: nomad.svg
+            open_source: false
             crunchbase: https://www.crunchbase.com/organization/hashicorp
           - item:
             name: Open Cluster Management
@@ -4117,6 +4120,7 @@ landscape:
             homepage_url: https://www.consul.io/
             repo_url: https://github.com/hashicorp/consul
             logo: consul.svg
+            open_source: false
             crunchbase: https://www.crunchbase.com/organization/hashicorp
           - item:
             name: EaseMesh
@@ -5827,6 +5831,7 @@ landscape:
             homepage_url: https://www.packer.io/
             repo_url: https://github.com/hashicorp/packer
             logo: packer.svg
+            open_source: false
             crunchbase: https://www.crunchbase.com/organization/hashicorp
           - item:
             name: Plural
